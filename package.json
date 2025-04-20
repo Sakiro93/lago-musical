@@ -1,0 +1,14 @@
+{
+  "name": "lago-musical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Angel Silva",
+  "license": "ISC",
+  "description": ""
+}
